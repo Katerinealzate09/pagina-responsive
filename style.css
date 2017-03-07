@@ -1,0 +1,61 @@
+body {
+    background-color: #EFEDED;
+}
+.general-margin {
+    padding-top: 1%;
+}
+.texto{
+    text-align: justify;
+
+}
+.punteada{
+    border: 0.5px dashed;
+}
+
+.texto a{
+    text-align: right;
+}
+.titulo-fondo{
+    padding: 10px;
+    background: #434041;
+    color: white;
+}
+.res-img {
+    width: 100%;
+    height: auto;
+}
+
+.calendario-inicio{
+    background: #555152;
+}
+
+.fondo-calendario{
+    background: #FFA900;
+}
+
+.centrar-cal {
+    padding-top: 12%;
+    text-align: center;
+}
+
+.color-cal{
+    text-align: center;
+    color: white;
+}
+
+.res-img1{
+    width: 100%;
+    height: 100%;
+}
+
+.linea {
+    size: 8px;
+    color: black;
+}
+.fondo-carousel{
+    background: white;
+}
+
+.margen-img{
+    padding: 15px 10px 10px 15px;
+}
